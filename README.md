@@ -39,11 +39,13 @@ Find out who are the top 3 people emailing Hillary Clinton.
 PROCESS:
 
 Step 1: Clean the data and filter people who mailed Hillary.
+
 Step 2: Use reducer to count the number of times a particular person have mailed Hillary.
+
 Step 3: Finally display the top 3 people who mailed Hillary.
 
 FINAL OUTPUT:
 
-('"Abedin', 1255)	
-('"Mills', 1081)	
+('"Abedin', 1255)
+('"Mills', 1081)
 ('"Sullivan', 765)
